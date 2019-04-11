@@ -20,6 +20,7 @@ class ChatViewController: UIViewController {
     @IBOutlet var messageTextfield: UITextField!
     @IBOutlet var messageTableView: UITableView!
     
+    // I added all the relationships here
     
     
     override func viewDidLoad() {
