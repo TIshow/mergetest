@@ -15,10 +15,8 @@ class ChatViewController: UIViewController {
 
     
     // We've pre-linked the IBOutlets
-    @IBOutlet var heightConstraint: NSLayoutConstraint!
-    @IBOutlet var sendButton: UIButton!
-    @IBOutlet var messageTextfield: UITextField!
-    @IBOutlet var messageTableView: UITableView!
+   
+//    i deleted all the relationships here
     
     // I added all the relationships here
     
