@@ -19,6 +19,7 @@ class ChatViewController: UIViewController {
 //    i deleted all the relationships here
     
     // I added all the relationships here
+    // My local source is also changed
     
     
     override func viewDidLoad() {
